@@ -1,0 +1,4 @@
+C:\Users\Rizki firmansyah\documents\visual studio 2010\Projects\Deretan Fibonacci Rizki firmansyah\Deretan Fibonacci Rizki firmansyah\bin\Debug\Deretan Fibonacci Rizki firmansyah.exe
+C:\Users\Rizki firmansyah\documents\visual studio 2010\Projects\Deretan Fibonacci Rizki firmansyah\Deretan Fibonacci Rizki firmansyah\bin\Debug\Deretan Fibonacci Rizki firmansyah.pdb
+C:\Users\Rizki firmansyah\documents\visual studio 2010\Projects\Deretan Fibonacci Rizki firmansyah\Deretan Fibonacci Rizki firmansyah\obj\x86\Debug\Deretan Fibonacci Rizki firmansyah.exe
+C:\Users\Rizki firmansyah\documents\visual studio 2010\Projects\Deretan Fibonacci Rizki firmansyah\Deretan Fibonacci Rizki firmansyah\obj\x86\Debug\Deretan Fibonacci Rizki firmansyah.pdb

@@ -1,0 +1,4 @@
+C:\Users\Rizki firmansyah\documents\visual studio 2010\Projects\desimal ke hexadesimal rizki firmansyah\desimal ke hexadesimal rizki firmansyah\bin\Debug\desimal ke hexadesimal rizki firmansyah.exe
+C:\Users\Rizki firmansyah\documents\visual studio 2010\Projects\desimal ke hexadesimal rizki firmansyah\desimal ke hexadesimal rizki firmansyah\bin\Debug\desimal ke hexadesimal rizki firmansyah.pdb
+C:\Users\Rizki firmansyah\documents\visual studio 2010\Projects\desimal ke hexadesimal rizki firmansyah\desimal ke hexadesimal rizki firmansyah\obj\x86\Debug\desimal ke hexadesimal rizki firmansyah.exe
+C:\Users\Rizki firmansyah\documents\visual studio 2010\Projects\desimal ke hexadesimal rizki firmansyah\desimal ke hexadesimal rizki firmansyah\obj\x86\Debug\desimal ke hexadesimal rizki firmansyah.pdb
