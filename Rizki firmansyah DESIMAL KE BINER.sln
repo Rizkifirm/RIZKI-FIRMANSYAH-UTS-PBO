@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rizki firmansyah DESIMAL KE BINER", "Rizki firmansyah DESIMAL KE BINER\Rizki firmansyah DESIMAL KE BINER.csproj", "{C45A6094-C02A-44E9-917A-839D94DB1071}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C45A6094-C02A-44E9-917A-839D94DB1071}.Debug|x86.ActiveCfg = Debug|x86
+		{C45A6094-C02A-44E9-917A-839D94DB1071}.Debug|x86.Build.0 = Debug|x86
+		{C45A6094-C02A-44E9-917A-839D94DB1071}.Release|x86.ActiveCfg = Release|x86
+		{C45A6094-C02A-44E9-917A-839D94DB1071}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
